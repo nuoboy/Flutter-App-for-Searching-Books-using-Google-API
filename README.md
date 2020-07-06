@@ -1,16 +1,18 @@
 # lebook
 
-A new Flutter application.
+A learning project I did for understanding API usage in flutter development. I used google books API to find out the details of books that user wanted to search
 
-## Getting Started
+## Screen Shots
 
-This project is a starting point for a Flutter application.
+<img src="https://github.com/naharamal/FLutter-App-for-Searching-Books-using-Google-API/blob/master/Screen%20shots/Screenshot_2020-07-06-21-47-30-951_nahar.lebook.jpg" width="250">
 
-A few resources to get you started if this is your first Flutter project:
+<img src="https://github.com/naharamal/FLutter-App-for-Searching-Books-using-Google-API/blob/master/Screen%20shots/Screenshot_2020-07-06-21-46-22-390_nahar.lebook.jpg" width="250">
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+<img src="https://github.com/naharamal/FLutter-App-for-Searching-Books-using-Google-API/blob/master/Screen%20shots/Screenshot_2020-07-06-21-46-46-075_nahar.lebook.jpg" width="250">
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<img src="https://github.com/naharamal/FLutter-App-for-Searching-Books-using-Google-API/blob/master/Screen%20shots/Screenshot_2020-07-06-21-47-20-518_nahar.lebook.jpg" width="250">
+
+
+
+
+
