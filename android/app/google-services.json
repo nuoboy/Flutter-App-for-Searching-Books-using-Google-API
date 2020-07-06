@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "979678025879",
+    "firebase_url": "https://lebook-a1883.firebaseio.com",
+    "project_id": "lebook-a1883",
+    "storage_bucket": "lebook-a1883.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:979678025879:android:fecb79b37138245c6f31d2",
+        "android_client_info": {
+          "package_name": "nahar.lebook"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "979678025879-fgd8bt6rfd68v1cq4qi61tb7bhphcaea.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBFqDKzoRDSUK3bKZQC0FB5pAo0pdMzdc8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "979678025879-fgd8bt6rfd68v1cq4qi61tb7bhphcaea.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
